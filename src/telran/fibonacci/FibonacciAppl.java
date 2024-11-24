@@ -10,6 +10,7 @@ public class FibonacciAppl {
         // print all numbers and reduce sum,
         // 1, 1, 2, 3, 5, 8, 13, 21
         // sum = 54
+
         int[] resArr = new int[fibonacci.getQuantity()];
         FibonacciIterator iterator = new FibonacciIterator(resArr.length);
 
